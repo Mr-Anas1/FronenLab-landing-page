@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Mr-Anas1/FronenLab-landing-page/static/css/main.f760d146.css",
+    "main.js": "/Mr-Anas1/FronenLab-landing-page/static/js/main.2557aa6e.js",
+    "static/media/Work.jpg": "/Mr-Anas1/FronenLab-landing-page/static/media/Work.517186c3e3f7da1facb8.jpg",
+    "index.html": "/Mr-Anas1/FronenLab-landing-page/index.html",
+    "main.f760d146.css.map": "/Mr-Anas1/FronenLab-landing-page/static/css/main.f760d146.css.map",
+    "main.2557aa6e.js.map": "/Mr-Anas1/FronenLab-landing-page/static/js/main.2557aa6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f760d146.css",
+    "static/js/main.2557aa6e.js"
+  ]
+}
